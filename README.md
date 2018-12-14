@@ -1,7 +1,6 @@
 # ns3-first
 demo
 This is a demo repository.
-Being used for testing Git features.
 
 
 
