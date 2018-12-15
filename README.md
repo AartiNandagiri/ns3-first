@@ -1,4 +1,8 @@
 # ns3-first
+<<<<<<< HEAD
+=======
+demo
+>>>>>>> parent of 2192de1... Modified
 This is a demo repository.
 Being used to understand Git and Github concepts.
 Undo in Git.
