@@ -1,7 +1,7 @@
 # ns3-first
 This is a demo repository.
 Being used to understand Git and Github concepts.
-Undo in Git
+Undo in Git.
 
 
 ## To-do Lists:
