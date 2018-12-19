@@ -1,3 +1,3 @@
 # ns3-first
-demo
+Hello!
 This is a demo repository.
